@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Control-por-Gestos
-Programas que tiene un control de gestos 
-=======
 # Control de Video por Gestos con Visión Artificial 
 # Meme Gato 
 
@@ -172,4 +168,3 @@ Si el video está encendido, se lee y muestra cada fotograma redimensionado a 40
 
 
 La principal ventaja de utilizar MediaPipe es que abstrae la complejidad del modelo de detección de manos, proporcionando 21 puntos de referencia precisos que permiten clasificar gestos con pocas líneas de código. Esto acelera el desarrollo y mejora la precisión en comparación con métodos tradicionales de visión artificial.
->>>>>>> e25c765 (Programa_gato)
